@@ -1,6 +1,13 @@
-http://example.com/about/index.html
-http://example.com/categories/index.html
+http://example.com/link/index.html
+http://example.com/AcWing/index.html
 http://example.com/tags/index.html
+http://example.com/list/index.html
+http://example.com/message/index.html
+http://example.com/gallery/index.html
+http://example.com/categories/index.html
+http://example.com/log/index.html
+http://example.com/archives/index.html
+http://example.com/about/index.html
 http://example.com/resources/index.html
 http://example.com/2022/04/05/hello-world/
 http://example.com/
