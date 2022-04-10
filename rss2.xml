@@ -9,8 +9,35 @@
     <atom:link href="http://example.com/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>等以不必换值价 向已死渐觉惜时</description>
-    <pubDate>Sun, 10 Apr 2022 04:15:11 GMT</pubDate>
+    <pubDate>Sun, 10 Apr 2022 11:48:18 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>Markdown-test</title>
+      <link>http://example.com/2022/04/10/Markdown-test/</link>
+      <guid>http://example.com/2022/04/10/Markdown-test/</guid>
+      <pubDate>Sun, 10 Apr 2022 06:29:17 GMT</pubDate>
+      
+        
+        
+      <description>&lt;p&gt;This is my first test passage!&lt;br&gt;Now , let’s begin ! &lt;/p&gt;
+&lt;h1 id=&quot;常用操作&quot;&gt;&lt;a href=&quot;#常用操作&quot; class=&quot;headerlink&quot; title=&quot;常用操作&quot;&gt;&lt;/a&gt;常用操作&lt;/h1&gt;&lt;h2</description>
+        
+      
+      
+      
+      <content:encoded><![CDATA[<p>This is my first test passage!<br>Now , let’s begin ! </p><h1 id="常用操作"><a href="#常用操作" class="headerlink" title="常用操作"></a>常用操作</h1><h2 id="插入图片"><a href="#插入图片" class="headerlink" title="插入图片"></a>插入图片</h2><p><img src="/webuseimg/test1.jpg" alt="这里写图片的描述,可不填"></p><h2 id="插入代码"><a href="#插入代码" class="headerlink" title="插入代码"></a>插入代码</h2><figure class="highlight c++"><figcaption><span>hello_world 示例</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta">#<span class="keyword">include</span> <span class="string">&lt;iostream&gt;</span></span></span><br><span class="line"><span class="keyword">using</span> <span class="keyword">namespace</span> std;</span><br><span class="line"><span class="function"><span class="type">int</span> <span class="title">main</span><span class="params">()</span></span></span><br><span class="line"><span class="function"></span>&#123;</span><br><span class="line">cout&lt;&lt;<span class="string">&quot;Hello World!&quot;</span>;</span><br><span class="line">cout&lt;&lt;endl;</span><br><span class="line"><span class="keyword">return</span> <span class="number">0</span>; </span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><p><img src="/webuseimg/daima.png"></p><h2 id="外置链接"><a href="#外置链接" class="headerlink" title="外置链接"></a>外置链接</h2><p>qq空间地址示范:<a href="https://user.qzone.qq.com/1473166315?ADUIN=1473166315&amp;ADSESSION=1649569161&amp;ADTAG=CLIENT.QQ.5887_MyInfo_PersonalInfo.0&amp;ADPUBNO=27211&amp;source=namecardstar">https://user.qzone.qq.com/1473166315?ADUIN=1473166315&amp;ADSESSION=1649569161&amp;ADTAG=CLIENT.QQ.5887_MyInfo_PersonalInfo.0&amp;ADPUBNO=27211&amp;source=namecardstar</a></p>]]></content:encoded>
+      
+      
+      <category domain="http://example.com/categories/AcWing/">-AcWing</category>
+      
+      
+      <category domain="http://example.com/tags/test/">-test</category>
+      
+      
+      <comments>http://example.com/2022/04/10/Markdown-test/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>Hello World</title>
@@ -27,6 +54,8 @@
       
       <content:encoded><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content:encoded>
       
+      
+      <category domain="http://example.com/categories/text/">-text</category>
       
       
       
