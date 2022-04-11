@@ -1,3 +1,4 @@
+http://example.com/2022/04/10/zuhe/
 http://example.com/2022/04/10/gaosi/
 http://example.com/2022/04/05/hello-world/
 http://example.com/2022/04/10/Markdown-test/
@@ -21,6 +22,7 @@ http://example.com/resources/index.html
 http://example.com/
 http://example.com/tags/test/
 http://example.com/tags/%E6%95%B0%E8%AE%BA/
+http://example.com/tags/%E6%95%B0%E8%AE%BA-%E7%BB%84%E5%90%88%E6%95%B0%E5%AD%A6/
 http://example.com/categories/AcWing/
 http://example.com/categories/acm/
 http://example.com/categories/text/
