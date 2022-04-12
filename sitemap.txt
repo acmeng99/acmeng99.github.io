@@ -1,3 +1,7 @@
+http://example.com/link/index.html
+http://example.com/MathCup/index.html
+http://example.com/gallery/index.html
+http://example.com/wallpaper/index.html
 http://example.com/2022/04/10/zuhe/
 http://example.com/2022/04/10/gaosi/
 http://example.com/2022/04/05/hello-world/
@@ -8,12 +12,9 @@ http://example.com/jizu/index.html
 http://example.com/java/index.html
 http://example.com/android/index.html
 http://example.com/acm/index.html
-http://example.com/MathCup/index.html
-http://example.com/link/index.html
 http://example.com/tags/index.html
 http://example.com/list/index.html
 http://example.com/message/index.html
-http://example.com/gallery/index.html
 http://example.com/categories/index.html
 http://example.com/log/index.html
 http://example.com/archives/index.html
