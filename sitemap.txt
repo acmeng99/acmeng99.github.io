@@ -1,6 +1,6 @@
+http://example.com/gallery/index.html
 http://example.com/link/index.html
 http://example.com/MathCup/index.html
-http://example.com/gallery/index.html
 http://example.com/wallpaper/index.html
 http://example.com/2022/04/10/zuhe/
 http://example.com/2022/04/10/gaosi/
