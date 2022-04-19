@@ -1,4 +1,5 @@
 http://example.com/2022/04/18/At%20248/
+http://example.com/2022/04/19/zy/
 http://example.com/2022/04/15/AcWing247/
 http://example.com/2022/04/10/zuhe/
 http://example.com/log/index.html
@@ -26,6 +27,7 @@ http://example.com/tags/%E6%97%A5%E8%AE%B0/
 http://example.com/tags/Atcoder/
 http://example.com/tags/test/
 http://example.com/tags/%E6%95%B0%E8%AE%BA/
+http://example.com/tags/dp/
 http://example.com/categories/Atcoder/
 http://example.com/categories/test/
 http://example.com/categories/acm/
