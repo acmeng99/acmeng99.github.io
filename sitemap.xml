@@ -2,16 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.com/2020/04/20/ahut/</loc>
-    
-    <lastmod>2022-04-20</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.com/2022/04/19/Codeforces%20Round%20#783/</loc>
+    <loc>http://example.com/2022/04/19/Codeforces%20Round%20783/</loc>
     
     <lastmod>2022-04-20</lastmod>
     
@@ -22,7 +13,16 @@
   <url>
     <loc>http://example.com/2022/04/18/At%20248/</loc>
     
-    <lastmod>2022-04-19</lastmod>
+    <lastmod>2022-04-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/2020/04/20/ahut/</loc>
+    
+    <lastmod>2022-04-20</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -252,7 +252,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/tags/Atcoder/</loc>
+    <loc>http://example.com/tags/Codeforces/</loc>
     <lastmod>2022-04-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -266,14 +266,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/tags/Codeforces/</loc>
-    <lastmod>2022-04-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.com/tags/dp/</loc>
+    <loc>http://example.com/tags/Atcoder/</loc>
     <lastmod>2022-04-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -286,10 +279,17 @@
     <priority>0.2</priority>
   </url>
   
+  <url>
+    <loc>http://example.com/tags/dp/</loc>
+    <lastmod>2022-04-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
   
   <url>
-    <loc>http://example.com/categories/Atcoder/</loc>
+    <loc>http://example.com/categories/Codeforces/</loc>
     <lastmod>2022-04-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -303,14 +303,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/categories/Codeforces/</loc>
-    <lastmod>2022-04-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.com/categories/ahut%E6%AF%8F%E6%97%A5%E4%B8%80%E9%A2%98/</loc>
+    <loc>http://example.com/categories/Atcoder/</loc>
     <lastmod>2022-04-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -318,6 +311,13 @@
   
   <url>
     <loc>http://example.com/categories/acm/</loc>
+    <lastmod>2022-04-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/categories/ahut%E6%AF%8F%E6%97%A5%E4%B8%80%E9%A2%98/</loc>
     <lastmod>2022-04-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
