@@ -9,7 +9,7 @@
     <atom:link href="http://example.com/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>等以不必换值价 向已死渐觉惜时</description>
-    <pubDate>Fri, 04 Nov 2022 12:49:45 GMT</pubDate>
+    <pubDate>Fri, 04 Nov 2022 13:47:34 GMT</pubDate>
     <generator>http://hexo.io/</generator>
     
     <item>
@@ -20,13 +20,13 @@
       
         
         
-      <description>&lt;p&gt;我抓不住这世间的美好，只能装作万事顺遂的模样。&lt;br&gt;                                          —题记&lt;/p&gt;
-</description>
+      <description>&lt;p&gt;我抓不住这世间的美好，只能装作万事顺遂的模样。&lt;/p&gt;
+&lt;h1 id=&quot;计算机中的数据存储&quot;&gt;&lt;a href=&quot;#计算机中的数据存储&quot; class=&quot;headerlink&quot; title=&quot;计算机中的数据存储&quot;&gt;&lt;/a&gt;计算机中的数据存储&lt;/h1&gt;&lt;p&gt;二进制:由0和1组成，</description>
         
       
       
       
-      <content:encoded><![CDATA[<p>我抓不住这世间的美好，只能装作万事顺遂的模样。<br>                                          —题记</p>]]></content:encoded>
+      <content:encoded><![CDATA[<p>我抓不住这世间的美好，只能装作万事顺遂的模样。</p><h1 id="计算机中的数据存储"><a href="#计算机中的数据存储" class="headerlink" title="计算机中的数据存储"></a>计算机中的数据存储</h1><p>二进制:由0和1组成，代码中以0b开头<br>十进制:由0<del>9组成，前面不加任何前缀<br>八进制:由0</del>7组成，代码中以0开头<br>十六进制:由0<del>9还有a</del>f组成，代码中以0x开头</p><h1 id="键盘录入"><a href="#键盘录入" class="headerlink" title="键盘录入"></a>键盘录入</h1><p>Scanner类；接收键盘输入的数字<br>使用:</p><ol><li>导包<br><code>import.java.util.Scanner;</code></li><li>创建对象<br><code>Scanner sc = new Scanner(System.in)</code></li><li>接收数据<br><code>int i = sc.nextInt();</code></li></ol>]]></content:encoded>
       
       
       <category domain="http://example.com/categories/java%E5%BC%80%E5%8F%91%E5%B7%A5%E7%A8%8B%E5%B8%88/">-java开发工程师</category>

@@ -261,13 +261,6 @@
   </url>
   
   <url>
-    <loc>http://example.com/tags/test/</loc>
-    <lastmod>2022-11-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://example.com/tags/Codeforces/</loc>
     <lastmod>2022-11-04</lastmod>
     <changefreq>weekly</changefreq>
@@ -275,7 +268,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/tags/%E6%97%A5%E8%AE%B0/</loc>
+    <loc>http://example.com/tags/test/</loc>
     <lastmod>2022-11-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -290,6 +283,13 @@
   
   <url>
     <loc>http://example.com/tags/%E6%95%B0%E8%AE%BA/</loc>
+    <lastmod>2022-11-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/%E6%97%A5%E8%AE%B0/</loc>
     <lastmod>2022-11-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -319,14 +319,14 @@
   </url>
   
   <url>
-    <loc>http://example.com/categories/test/</loc>
+    <loc>http://example.com/categories/Codeforces/</loc>
     <lastmod>2022-11-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://example.com/categories/Codeforces/</loc>
+    <loc>http://example.com/categories/test/</loc>
     <lastmod>2022-11-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
